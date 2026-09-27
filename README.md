@@ -2,7 +2,7 @@
 
 ### A passionate Software Engineer Student from Montreal,Canada
 
-- 🔭 I'm currently working on **Im Currently Studying at College de Bois de Boulogne in Software Engineering**
+- 🔭 I'm currently working on **Finishing my Software Engineering 3 year Dec at College de Bois de Boulogne**
 
 - 🌱 I'm currently learning **Rust, Kotlin, Godot**
 
